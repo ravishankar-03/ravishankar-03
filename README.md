@@ -1,7 +1,7 @@
 ![MasterHead](https://arkevo-group.com/wp-content/uploads/2022/02/ezgif.com-gif-maker.gif)
 <h1 align="center">Hi 👋, I'm Ravishankar Kushwah</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="code" width="500" height="400" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif"
+<img align="right" alt="code" width="400" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ravishankar-03&label=Profile%20views&color=0e75b6&style=flat" alt="ravishankar-03" /> </p>
 
